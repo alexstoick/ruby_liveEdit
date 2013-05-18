@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-RubyLiveedit::Application.load_tasks
+RailsWithBoostrap::Application.load_tasks
